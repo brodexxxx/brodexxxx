@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build with <strong>Python</strong>, <strong>Power BI</strong>, and <strong>Generative AI</strong> — currently working at a startup and exploring practical ways to turn data and AI into useful products.
+  I build with <strong>Python</strong>, <strong>Power BI</strong>, and <strong>Generative AI</strong>
 </p>
 
 <p align="center">
