@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Vedant Wuike 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+MBA+HRM+%26+Business+Analytics;AI%2FML+Certified+from+IIT+Ropar;Python+%7C+Power+BI+%7C+Generative+AI;Building+useful+tech+solutions+at+a+startup" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <em>B.Tech in Computer Science Engineering • MBA in HRM & Business Analytics • AI/ML Certified from IIT Ropar</em>
 </p>
 
@@ -8,14 +12,18 @@
   I build with <strong>Python</strong>, <strong>Power BI</strong>, and <strong>Generative AI</strong> — currently working at a startup and exploring practical ways to turn data and AI into useful products.
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744918-0f4f6a7f-66f6-4d61-b8e8-1e3d1b7d0f6b.gif" alt="Tech animation" width="360" />
+</p>
+
 ---
 
 ## 🧭 About Me
 
-- 🎓 Background in <strong>Computer Science Engineering</strong> and <strong>Business Analytics</strong>
-- 🧠 AI/ML certified from <strong>IIT Ropar</strong>
-- 💼 Currently working at a <strong>startup</strong>
-- 📊 Interested in <strong>data storytelling, automation, and AI-driven solutions</strong>
+- 🎓 Background in **Computer Science Engineering** and **Business Analytics**
+- 🧠 AI/ML certified from **IIT Ropar**
+- 💼 Currently working at a **startup**
+- 📊 Interested in **data storytelling, automation, and AI-driven solutions**
 - 🌱 Always learning and improving my technical and analytical skills
 
 ---
